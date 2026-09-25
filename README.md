@@ -4,6 +4,15 @@
 
 У меня сильный бэкграунд на стыке аналитики, бизнеса и IT: бизнес-информатика ВШЭ, опыт работы в Microsoft, InfoWatch и NAUMEN, бизнес- и продуктовые проекты. Сейчас усилила технический стек в Data Analytics и хочу сфокусироваться именно на этом направлении.
 
-## Мои контакты:
- - https://t.me/Ksenlandia
- - 6034575@gmail.com 
+Связь со мной:
+ - Телеграм - https://t.me/Ksenlandia
+ - Почта - 6034575@gmail.com
+
+## Языки и инструменты
+Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook, Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Jupyter Notebook, математическая
+статистика, Excel, Yandex DataLens, Python SQL PostgreSQL Redash Numpy Matplotlib Seaborn
+Jupyter Notebook DataLens Git MS Excel ETL Анализ данных
+Визуализация данных Создание дашбордов Когортный анализ
+Retention analysis Математическая статистика Работа с базами данных
+Tableau Clickhouse MySQL Superset Power Query SQLite Power BI
+Apache Airflow Data Analysis pandas Dashboard
