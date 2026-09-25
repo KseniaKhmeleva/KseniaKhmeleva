@@ -11,13 +11,9 @@
  - Почта - ksenia.khmeleva@gmail.com
 
 ## Языки и инструменты
-Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook, Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Jupyter Notebook, математическая
-статистика, Excel, Yandex DataLens, Python SQL PostgreSQL Redash Numpy Matplotlib Seaborn
-Jupyter Notebook DataLens Git MS Excel ETL Анализ данных
-Визуализация данных Создание дашбордов Когортный анализ
-Retention analysis Математическая статистика Работа с базами данных
-Tableau Clickhouse MySQL Superset Power Query SQLite Power BI
-Apache Airflow Data Analysis pandas Dashboard
-
+ - Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook 
+ - SQL, PostgreSQL, Redash
+ - Excel, Yandex DataLens, Git
+ - Анализ данных, Математическая статистика, Визуализация данных, Создание дашбордов, Когортный анализ, Retention analysis, Работа с базами данных   
 
 ## Мои проекты
